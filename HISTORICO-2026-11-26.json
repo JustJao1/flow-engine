@@ -1,0 +1,32 @@
+{
+  "repository": "JustJao1/flow-engine",
+  "snapshot": "39f11f598c0757daa564383fc0981309a5e1f297",
+  "scope": "Histórico alcançável a partir do commit preservado, tal como retornado pela API GitHub; datas e autorias são metadados Git, não certificação jurídica.",
+  "complete": true,
+  "entries": [
+    {
+      "commit": "39f11f598c0757daa564383fc0981309a5e1f297",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-27T00:27:57Z",
+      "committer_date": "2026-11-27T00:27:57Z",
+      "subject": "Use project-specific browser tab icon",
+      "signature_verified": false
+    },
+    {
+      "commit": "f312b40305c1db4497fd9e9c80ed716033913459",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T18:06:31Z",
+      "committer_date": "2026-11-26T18:06:31Z",
+      "subject": "Publish standalone source and verification workflow",
+      "signature_verified": false
+    },
+    {
+      "commit": "a643b4d13667b4245d3ef0820f79ccf2ad307eff",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T18:03:28Z",
+      "committer_date": "2026-11-26T18:03:28Z",
+      "subject": "Initialize project documentation",
+      "signature_verified": false
+    }
+  ]
+}
