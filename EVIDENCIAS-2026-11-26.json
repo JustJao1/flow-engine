@@ -1,0 +1,139 @@
+{
+  "schema": 1,
+  "data_local": "2026-11-26",
+  "responsavel": "João Victor da Silva (JustJao1)",
+  "repositorio": "JustJao1/flow-engine",
+  "commit": "39f11f598c0757daa564383fc0981309a5e1f297",
+  "git_tree": "955c3dd964d5db61b786ee4f00481bf3b1dbc143",
+  "escopo": "Inventário de todos os arquivos rastreados no commit; SHA-256 do JSON compacto UTF-8 de inventario_git, não do código completo. Hash de conteúdo da amostra calculado sobre bytes originais. Exclui dados privados, arquivos não rastreados, conteúdo externo e objetos LFS não materializados.",
+  "sha256_inventario_git": "e9c3fe538d666e0a5c8bda96af127dffda24ca4d79744498ac65f9a708159974",
+  "hashes_conteudo": [
+    {
+      "path": "public/index.html",
+      "bytes": 31813,
+      "sha256": "1529774e73c6a75319232b870a951c6dbb13d3c1768c3b68aa221eec19d8ab3b"
+    }
+  ],
+  "auditoria_preliminar_licencas": "THIRD_PARTY_NOTICES.md identifica Google Fonts externos; requirements.txt indica biblioteca padrão Python. Confirmar fontes e demais ativos, avisos e termos de serviços externos.",
+  "inventario_git": [
+    [
+      ".github/workflows/verify.yml",
+      "100644",
+      "blob",
+      "67dc56fd92692061512c41ac0e4c1277dc7a9f0c",
+      399
+    ],
+    [
+      ".gitignore",
+      "100644",
+      "blob",
+      "227589229f99ca4edd6b7e136bda91c76967de9a",
+      56
+    ],
+    [
+      "OWNERSHIP.md",
+      "100644",
+      "blob",
+      "85ea17c6580f9068abdb29ab71aedc7ba91f36f2",
+      356
+    ],
+    [
+      "README.md",
+      "100644",
+      "blob",
+      "2c92b3128ed12ade836e3ce5e0e76c99b9ed8c33",
+      1186
+    ],
+    [
+      "THIRD_PARTY_NOTICES.md",
+      "100644",
+      "blob",
+      "2c6d62d49360b2f0ce74d3a78b38708402b6080c",
+      139
+    ],
+    [
+      "api/workspace.py",
+      "100644",
+      "blob",
+      "d75d021551c9f5ef8ce0f82b06b1e657b490fee9",
+      4544
+    ],
+    [
+      "lib/engine.py",
+      "100644",
+      "blob",
+      "1435372f661b7f7207c0601b2507b5e92bccdc37",
+      11394
+    ],
+    [
+      "lib/workspace_core.py",
+      "100644",
+      "blob",
+      "926db61c2bf286f8b244d18afc3773bcdb2ad00c",
+      1882
+    ],
+    [
+      "public/base.css",
+      "100644",
+      "blob",
+      "2c2cb0b49515cf747d955f045f442a0146eeea0f",
+      1805
+    ],
+    [
+      "public/common.js",
+      "100644",
+      "blob",
+      "dc515e42dada01757c2c07e6ac4ac59ed6603fab",
+      2978
+    ],
+    [
+      "public/index.html",
+      "100644",
+      "blob",
+      "391f085d09d06fc91b2ba82b41def07c6ef9972e",
+      31813
+    ],
+    [
+      "public/polish.css",
+      "100644",
+      "blob",
+      "e83c7a1977eca0ad169d44a8d6395ca02ae00677",
+      2802
+    ],
+    [
+      "public/polish.js",
+      "100644",
+      "blob",
+      "ecc3fa51f706d9417f319caec1143c0b406e5f1b",
+      3449
+    ],
+    [
+      "requirements.txt",
+      "100644",
+      "blob",
+      "b7c72a67b2a8e676950be23fbaa8307c8bfdd94b",
+      25
+    ],
+    [
+      "run.py",
+      "100644",
+      "blob",
+      "ed91317cb9c3ca61a95151c885293336e3a05334",
+      1202
+    ],
+    [
+      "tests/test_workspace.py",
+      "100644",
+      "blob",
+      "0287ba11e454a598aed15c7141eea160a62411cf",
+      856
+    ],
+    [
+      "vercel.json",
+      "100644",
+      "blob",
+      "114d51d02ae11f8a976d9618c7f7bed1ca033bec",
+      149
+    ]
+  ]
+}
